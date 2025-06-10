@@ -1,5 +1,5 @@
 # Ignore node_modules folder
-./node_modules
+node_modules
 
 # Ignore all .log files
 *.log
@@ -12,3 +12,6 @@
 
 # Ignore Linux swap files
 *.swp
+
+# self defined
+package-lock.json
