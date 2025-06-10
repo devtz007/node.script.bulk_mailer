@@ -45,3 +45,9 @@ SMTP_USER=your_email@example.com
 SMTP_PASS=your_email_password
 FROM_EMAIL=your_email@example.com
 ```
+
+### Run the app (Start to send email immediately)
+
+```bash
+node bulkMailer.js
+```
